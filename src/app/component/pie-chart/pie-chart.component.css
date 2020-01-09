@@ -1,0 +1,26 @@
+.pie {
+    width: 200px; height: 200px;
+    border-radius: 50%;
+    background: yellowgreen;
+    
+    background-image:
+    linear-gradient(to right, transparent 50%, #655 0);
+    /* y: 56.33; */
+    /* border: 1px solid blue */
+  }
+ .box{
+   width: 20px;
+   height: 20px;
+   background: yellowgreen;
+ }
+ .box1{
+  width: 20px;
+  height: 20px;
+  background: #655;
+}
+.text{
+  color:yellowgreen
+}
+.text1{
+  color:#655
+}

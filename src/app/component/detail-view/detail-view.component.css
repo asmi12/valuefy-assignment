@@ -1,0 +1,35 @@
+input[type=texts] {
+    width: 130px;
+    height: 35px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 12px 20px 12px 15px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+  }
+  .container{
+    margin-left: 75px;
+  }
+  
+  input[type=texts]:focus {
+    width: 50%;
+   
+  }
+  .input-group-text{
+  background-color:#81b95d;
+  padding: 20px;
+  }
+  .input-group-text1{
+    background-color:#655;
+    padding: 20px;
+    }
+  label{
+    padding: 24px 4px 24px 20px;
+  }
+  
